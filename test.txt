@@ -1,0 +1,12 @@
+Product;Vanilla-milk;4;0
+Product;Jelly-candy;5;17
+Product;Bubble-gums;4;420
+Product;Chocolate-milk;5;9
+Product;Chips-lays;6;20
+Product;CocaCola;3;600
+Product;Chocolate-Bar;2;53
+Product;Chips-Maczugi;3;30
+Product;Pepsi;2;600
+Product;Marshmallow;5;10
+User;admin;6d9f4c129130c378de1cdaa9c86d8bc4;admin
+User;janek;45384552b582494a50959156bd2f5a64;user
